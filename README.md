@@ -10,7 +10,7 @@ Objetivo do grupo: Jogar o jogo da velha utilizando git
 README: 
 Fizemos um repositório no GitHub, fizemos o jogo da velha em um arquivo txt, abrimos no vs code e em seguida fizemos os comandos:
 Primeiramente fizemos o git init 
-depois conectamos o git com o GitHub git config --global user.name “aluno"
+depois conectamos o git com o GitHub git config --global user.name “arthurmattos10"
 git config --global user.email “arthurmatosrocha321@gmail.com” 
 depois clonamos git clone https://...repo.git
 criamos uma branch git branch main
